@@ -1,0 +1,6 @@
+.idea
+.vs
+.vscide
+cmake-build-debug
+out
+CSE 211 Tetris Game Project.txt 
