@@ -1,0 +1,3 @@
+C:/Users/erhan/Desktop/ErhanOnaldi20210702136/cmake-build-debug/CMakeFiles/ErhanOnaldi20210702136.dir
+C:/Users/erhan/Desktop/ErhanOnaldi20210702136/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/erhan/Desktop/ErhanOnaldi20210702136/cmake-build-debug/CMakeFiles/rebuild_cache.dir
